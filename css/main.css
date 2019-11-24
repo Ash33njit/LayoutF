@@ -106,10 +106,8 @@ textarea {
   line-height: 30px;
   font-family: SansSerif, "Helvetica Neue", Helvetica;
 }
-
-#logo img {
-  height: 116px;
-
+#logo {
+  float: left;
 }
 
 #article_text {
